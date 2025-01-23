@@ -9,8 +9,8 @@
                     <Linear skipoffset="00:00:04">
                         <Duration>00:00:03</Duration>
                         <VideoClicks>
-                            <ClickThrough id="blog"><![CDATA[]]></ClickThrough>
-                            <CustomClick></CustomClick>
+                            <ClickThrough id="blog"><![CDATA[https://raisedghostsscalpel.com/x99cdrwq?key=89252a41b7300fce076ddbb31799bfd7]]></ClickThrough>
+                            <CustomClick>https://raisedghostsscalpel.com/x99cdrwq?key=89252a41b7300fce076ddbb31799bfd7</CustomClick>
                         </VideoClicks>
                         <MediaFiles>
                             <MediaFile id="3" delivery="progressive" type="video/mp4" scalable="1" maintainAspectRatio="1" codec="0" apiFramework="VAST"><![CDATA[https://raisedghostsscalpel.com/x99cdrwq?key=89252a41b7300fce076ddbb31799bfd7]]></MediaFile>
