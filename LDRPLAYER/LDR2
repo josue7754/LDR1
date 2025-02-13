@@ -1,0 +1,24 @@
+<VAST version="4.1">
+    <Ad id="1">
+        <InLine>
+            <AdSystem>Example Ad System</AdSystem>
+            <AdTitle>Example Ad Title</AdTitle>
+            <Description>This is an example of an ad that redirects to a URL.</Description>
+            <Creatives>
+                <Creative id="1" sequence="1">
+                    <Linear>
+                        <Duration>00:00:30</Duration>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="text/html" width="640" height="360">
+                                <![CDATA[https://studious-make.com/b.3-VF0-Px3cp/vlbomLV/JAZND/0/1NM/jKEWyYMQj/Iz4sLTTuU/yQM/TfI/yvMTj/k-]]>
+                            </MediaFile>
+                        </MediaFiles>
+                        <VideoClicks>
+                            <ClickThrough><![CDATA[https://studious-make.com/b.3-VF0-Px3cp/vlbomLV/JAZND/0/1NM/jKEWyYMQj/Iz4sLTTuU/yQM/TfI/yvMTj/k-]]></ClickThrough>
+                        </VideoClicks>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>
